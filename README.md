@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LucaSinclar
-- 👀 I’m interested in coding, programming, sport and movies.
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on web development.
-- 🇵🇱 I'm from Poland.
+- 👋 Hi, I'm Lucas
+- 👀 I’m interested in programming, sport and movies.
+- HTML, CSS - intermediate
+- JS - basic
+- Learning Python, SQL
 
 <!---
 LucaSinclar/LucaSinclar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
