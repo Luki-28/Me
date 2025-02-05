@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Lucas, 18yo
-- 👀 I’m interested in programming, sport and movies.
-- Learning Python, SQL
+- I’m interested in programming, sport and movies.
+- Always learninh something new ...
 
 <!---
 LucaSinclar/LucaSinclar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
